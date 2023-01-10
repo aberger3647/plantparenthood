@@ -1,19 +1,9 @@
 {{#if loggedIn}}
-<div class="bg-info vh-full">
-  <nav class="navbar bg-dark text-light">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <p class="display-3">{{username}}'s garden</p>
-      </div>
-      <!-- Trigger the modal with a button -->
-      <button type="button" class="btn btn-secondary btn-lg" data-toggle="modal" data-target="#myModal">
-        New Plant
-      </button>
-    </div>
-  </nav>
+
+        <button type="button" class="btn btn-light border border-dark" data-toggle="modal" data-target="#newplant">New Plant</button>
 
   <div class="container newPlantModal">
-    <div class="modal" tabindex="-1" id="myModal">
+    <div class="modal" tabindex="-1" id="newplant">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
