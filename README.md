@@ -10,6 +10,7 @@ An app that allows gardeners to manage their plants, their garden tasks, and to 
   
 ## Table of Contents
 - [Screenshots](#screenshots)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
   
