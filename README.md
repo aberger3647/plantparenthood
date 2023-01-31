@@ -7,6 +7,8 @@
 An app that allows gardeners to manage their plants, their garden tasks, and to record observations.
 
 [Deployed App](https://plant-parenthood.herokuapp.com/)  
+
+Sign in with user: `happygardener` and password: `password` to see the app pre-populated with data.
   
 ## Table of Contents
 - [Screenshots](#screenshots)
